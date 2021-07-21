@@ -1,0 +1,30 @@
+.side-bar-list{
+    list-style-type: none;
+    height: 100%;
+    position: fixed;
+    left:0px;
+    top:0px;  
+    background-color: rgb(109, 106, 106); 
+}
+
+.side-bar-item{
+    margin: 0 auto;
+    font-size:20px;
+    margin:25px 0px;  
+}
+
+.side-bar-item :hover{
+    background-color: beige;
+    color: black;
+}
+
+.side-bar-item a {
+    color: white;
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+}
+
+.side-bar-item :active{
+    font-size: 25px;
+}

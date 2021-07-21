@@ -1,0 +1,29 @@
+.register-container{
+    width: 60%;
+    margin:0 auto;
+    border:1px solid #eee;
+    padding: 10px;
+    margin-top:20px;
+}
+
+/* form {
+   border:1px solid blue;
+   background-color:rgb(247, 240, 240);
+   padding: 20px; 
+}
+.input-rule{
+    display: inline-block;
+} */
+
+/* css can be written in three ways  */
+/* internal css,external css and inline css */
+/* selctor can be written in three ways 
+    slector as an element
+    selector as an id
+    selector as class
+*/
+
+.danger{
+    color: red;
+    font-size: 12px;
+}
